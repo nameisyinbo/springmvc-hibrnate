@@ -1,0 +1,103 @@
+#div{
+	position: absolute;
+	border:0.5px solid silver;
+	width: 50%;
+	height: 60%;
+	margin:0 auto;
+	top: 0px;
+	bottom: 0px;
+	left:0px;
+	right: 0px;
+	margin-top: 9%;
+}
+#div img{
+	position: absolute;
+	width: 44%;
+	height: 90%;
+	margin-top: 3%;
+	margin-left: 2%;
+}
+#form{
+	position: absolute;
+	width: 50%;
+	height: 90%;
+	margin-top: 3%;
+	margin-left: 50%;
+	text-align: center;
+}
+#form #input{
+	margin-top: 10%;
+	width: 80%;
+	height: 10%;
+}
+
+#form button{
+	margin-top: 10%;
+	width: 15%;
+	height: 10%;
+}
+body{
+	margin: 0;
+}
+#div0{
+	position:fixed;
+	width: 100%;
+	height: 20%;
+	background-color: #494e59;
+	color: #fdfdfe;
+	text-shadow:
+			1px 1px 0 #CCC,
+			2px 2px 0 #CCC,
+			3px 3px 0 #444,
+			4px 4px 0 #444,
+			5px 5px 0 #444,
+			6px 6px 0 #444;
+
+}
+.label0{
+	font-size: 3em;
+}
+.label1{
+	margin-left: 90%;
+	font-size: 0.3em;
+}
+#div1{
+	position: fixed;
+	margin-top: 9.32%;
+	width: 15%;
+	height: 80%;
+	background-color: #dadada;
+	text-align: center;
+}
+#div1 a{
+	text-decoration: none;
+	color: black;
+	font-size: 1.5em;
+}
+#div2 {
+	font-size: 0.3em;
+	position: fixed;
+	bottom: 0px;
+}
+
+iframe{
+	position: fixed;
+	margin-top: 9.32%;
+	margin-left: 15%;
+	height: 80%;
+	width: 85%;
+	border:none;
+}
+#div3{
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+
+.userForm_div label{
+	margin-left: 48%;
+}
+.userList_div table{
+	border-color: silver;
+}
